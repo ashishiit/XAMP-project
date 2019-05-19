@@ -1,7 +1,7 @@
 
 <!-- <h1>my first php page</h1> -->
 <?php
-// echo "fuck this world";
+
 
 $db = mysqli_connect("localhost", "root", "root", "registration");
 if (isset($_POST['login_btn']))
